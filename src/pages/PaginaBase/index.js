@@ -16,6 +16,6 @@ function PaginaBase() {
             <Rodape />
         </main>
     )
-}
-
+} 
+ 
 export default PaginaBase;

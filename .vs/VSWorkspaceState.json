@@ -3,11 +3,9 @@
     "",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\Card",
-    "\\src\\pages",
-    "\\src\\pages\\NaoEncontrada",
-    "\\src\\pages\\PaginaBase"
+    "\\src\\json",
+    "\\src\\pages\\Player"
   ],
-  "SelectedNode": "\\src\\routes.js",
+  "SelectedNode": "\\src\\pages",
   "PreviewInSolutionExplorer": false
 }
